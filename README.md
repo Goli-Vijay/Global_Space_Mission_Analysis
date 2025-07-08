@@ -28,6 +28,18 @@ The analysis is visualized using **Power BI** with interactive dashboards showin
 ---
 
 ## 📁 Folder Structure
+Global-Space-Analysis/
+├── data/
+│   ├── raw_data.csv
+│   └── cleaned_data.csv
+├── scripts/
+│   └── data_cleaning.py
+├── Global_Space_Exploration.ipynb
+├── GlobalSpaceDashboard.pbix
+├── dashboard-preview.png
+├── README.md
+├── .gitignore
+└── LICENSE
 
 
 ---
