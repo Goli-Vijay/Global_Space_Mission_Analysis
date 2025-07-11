@@ -60,4 +60,4 @@ Created by **Vijay**
 
 ---
 
-> 💡 *This project was developed as part of my data analytics learning journey at Innomatics Research Labs.*
+![Dashboard Image](dashboard.png)
